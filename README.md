@@ -1,11 +1,11 @@
-### Ohufi!
+### Ohufi! 🌴
 
-I'm a software engineering student from Ohio, US.
-I primarily write HTML/CSS, sometimes Python; but I'm learning Javascript and further languages.
-I'm a Stitch fursuiter, and I use He/Him/They/Them.
+I'm a software engineering student from Ohio, US. 💻
+I primarily write HTML/CSS, sometimes Python; but I'm learning Javascript and further languages. 🌐
+I'm a Stitch fursuiter, and I use He/Him/They/Them. 👾
 ### Contactable on
-- [Discord - smolyoshino#0626](https://discord.com/users/193789388034015232)
-- [Revolt - smolyoshino](https://revolt.chat)
+- [Discord - smolyoshino#0626](https://discord.com/users/193789388034015232) 🥴
+- [Revolt - smolyoshino](https://revolt.chat) 😮
 
 <!--
 **smolyoshino/smolyoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
