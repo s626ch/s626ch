@@ -2,9 +2,9 @@
 
 I'm a software engineering student from Ohio, US. 💻
 \
-I primarily write HTML/CSS, sometimes Python; but I'm learning Javascript and further languages. 🌐
+I primarily write HTML/CSS, sometimes Python; but I'm learning Javascript, C#, and further languages. 🌐
 \
-I'm a Stitch fursuiter, and I use He/Him/They/Them. 👾
+I'm a [Stitch fursuiter](https://twitter.com/sillystitchy), and I use He/Him/They/Them. 👾
 \
 I happen to quite like [@dfault-user](https://github.com/dfault-user) 💙
 
