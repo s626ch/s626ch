@@ -1,4 +1,4 @@
-### Ohufi! 🌴
+## Ohufi! 🌴
 
 I'm a software engineering student from Ohio, US. 💻
 \
@@ -8,9 +8,17 @@ I'm a [Stitch fursuiter](https://twitter.com/sillystitchy), and I use He/Him/The
 \
 I happen to quite like [@dfault-user](https://github.com/dfault-user) 💙
 
-### Contactable on
+## Contactable on
 - [Discord - smolyoshino#0626](https://discord.com/users/193789388034015232) 🥴
 - [Revolt - smolyoshino](https://revolt.chat) 😮
+
+
+## Github Stats
+![](https://komarev.com/ghpvc/?username=smolyoshino&color=003c83)
+
+![smolyoshino's GitHub stats](https://github-readme-stats.vercel.app/api?username=smolyoshino&count_private=true&theme=github_dark&show_icons=true&border_color=003c83&include_all_commits=true&border_radius=6)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smolyoshino&theme=github_dark&layout=compact&border_color=003c83&card_width=445&border_radius=6)
 
 <!--
 **smolyoshino/smolyoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
