@@ -9,7 +9,7 @@ I'm a [Stitch fursuiter](https://twitter.com/sillystitchy), and I use He/Him/The
 I happen to quite like [@dfault-user](https://github.com/dfault-user) 💙
 
 ## Contactable on
-- [Discord - smolyoshino#0626](https://discord.com/users/193789388034015232) 🥴
+- [Discord - stitchiu#0626](https://discord.com/users/193789388034015232) 🥴
 - [Revolt - smolyoshino](https://revolt.chat) 😮
 
 
