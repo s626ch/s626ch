@@ -1,6 +1,6 @@
 ## Ohufi! 🌴
 
-I'm a software engineering student from Ohio, US. 💻
+I'm a software engineering/IT student from Ohio, US. 💻
 \
 I primarily write HTML/CSS, sometimes Python; but I'm learning Javascript, C#, and further languages. 🌐
 \
