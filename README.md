@@ -5,8 +5,6 @@ I'm a software engineering/IT student from Ohio, US.
 I primarily write HTML/CSS, sometimes Python; but I'm learning Javascript, C#, and further languages. 
 \
 I'm a [Stitch fursuiter](https://twitter.com/sillystitchy), and I use They/Them. 
-\
-I happen to quite like [@dfault-user](https://github.com/dfault-user) 
 
 ## Contactable on
 - [Discord - 5titch](https://discord.com/users/193789388034015232) 
